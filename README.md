@@ -8,4 +8,4 @@ Full Form of CRUD,
 
 In this project, I used the concepts of #inheritance, #encapsulation and #getter/setter functions and used #MySQL queries; 
 
-JDBC -> JDBC is Simply connecting our java code to the database.
+JDBC -> JDBC is Simply connecting our java program to the database.
