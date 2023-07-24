@@ -6,6 +6,6 @@ Full Form of CRUD,
                   U ->  UPDATE
                   D ->  DELETE
 
-In this project, I used the concepts of #inheritance, #encapsulation and #getter/setter functions and used #MySQL queries; 
+In this project, I used the concepts of #inheritance, #encapsulation and #getter/setter functions and used #MySQL Database; 
 
 JDBC -> JDBC is Simply connecting our java program to the database.
